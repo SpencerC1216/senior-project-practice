@@ -1,7 +1,7 @@
 name = "Spencer Clark"
 major = "Computer Science"
 tech_interest = "Data Science"
-skill_goal = "Better at using GitHub for collaboration"
+skill_goal = "Machine Learning"
 
 print("Senior Project Developer Profile")
 print(f"Name: {name}")
